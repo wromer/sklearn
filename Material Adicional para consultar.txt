@@ -1,0 +1,73 @@
+Una vez más debo felicitarte por haber llegado hasta el final de este curso. ¡Si multiplicamos nuestro conocimiento y lo compartimos con otros, cada vez haremos mejores productos tecnológicos que nos beneficien a todos!
+
+¡Nunca pares de aprender!
+
+No quiero irme sin recordarte que todo lo que vimos en este curso es no más una muestra del apasionante mundo del machine learning. Y te quiero dejar algunos materiales para que puedas continuar con tu camino de aprendizaje infinito. Si encuentras algún material que valga la pena, no dudes en hacérmelo llegar también. Juntos podemos llegar más lejos.
+
+Machine Learning & Data Science:
+El canal de StatQuest con Josh Starmer (Inglés):
+
+https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw
+
+El canal de SentDex (Inglés):
+
+https://www.youtube.com/user/sentdex
+
+Un blog especializado en Data Science (Inglés)
+
+https://towardsdatascience.com/
+
+Libro gratuito: The art of data science (Inglés)
+
+https://bookdown.org/rdpeng/artofdatascience/
+
+Canal AMP Tech: (Español)
+
+https://www.youtube.com/channel/UCG4H4Qf-ZU9Ycr_PQ4egqDQ
+
+Tensorflow Coding (Español):
+
+https://www.youtube.com/watch?v=ZMkYL942RBw&list=PLQY2H8rRoyvz3rEFpW2I3gPSru5xm8Bf7
+
+Canal de 3Blue1Brown (Subtitulado):
+
+https://www.youtube.com/watch?v=aircAruvnKk
+
+El curso de Deep Learning para PLN de Stanford: http://web.stanford.edu/class/cs224n/
+
+El canal de Daniel Shiffman “The Coding Train”
+
+(Está más orientado a temas de computación gráfica, pero las explicaciones que da de Inteligencia Artificial son maravillosas).
+
+https://www.youtube.com/user/shiffman
+
+El libro de Daniel Shiffman de introducción a la vida artificial usando P5.JS (Javascript):
+
+https://natureofcode.com/book/
+
+El canal de Andrew Ng. Deeplearning.ai
+
+https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w
+
+Mis comunidades favoritas en facebook:
+(No olvides revisar la sección de archivos cuando sea el caso)
+
+The Data Pub:
+
+https://www.facebook.com/thedatapub/
+
+Machine Learning Colombia:
+
+https://www.facebook.com/groups/1766056600304468/files/
+
+Machine Learning en Español
+
+https://www.facebook.com/groups/machinelearninges/
+
+Sociedad Ecuatoriana de estadística (Español)
+
+https://www.facebook.com/socecuest/
+
+Con mucho cariño,
+
+Ariel Ortiz Beltrán.
