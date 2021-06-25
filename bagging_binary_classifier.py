@@ -14,6 +14,12 @@ if __name__ == "__main__":
     X = dt_heart.drop(['target'], axis=1)
     y = dt_heart['target']
 
+    print("Shape X")
+    print(X.shape)
+    print("Shape y")
+    print(y.shape)
+
+
     X_train, X_test, y_train, y_test = train_test_split(X,y,test_size=0.35)
 
     #prepacion_datos_bagging
